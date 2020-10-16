@@ -4,7 +4,7 @@
 
 
 # Hactoberfest_2020
-A maintainer repo for hacktoberfest'20.
+An Open repo for hacktoberfest'20.
 
 ## What you have to do?
 Add any piece of code, share your work,contribute any existing repository here.
