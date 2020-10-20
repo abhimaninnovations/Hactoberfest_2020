@@ -15,7 +15,7 @@ It can be any of any length and can be any number of scripts, just add a folder 
 
 ## Contributors
 
-[Your name here](Your GitHub/Linkedin URL here)
+Satyam Shekhar -- https://github.com/satyambup/
 
 ## Final words
 All the best for **Hacktoberfest** :)
